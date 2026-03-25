@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\The Feline Witness\The Feline Witness\obj\Debug\The Feline Witness.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\The Feline Witness\The Feline Witness\obj\Debug\The Feline Witness.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\The Feline Witness\The Feline Witness\bin\Debug\The Feline Witness.exe.config
+C:\Users\USER\source\repos\The Feline Witness\The Feline Witness\bin\Debug\The Feline Witness.exe
+C:\Users\USER\source\repos\The Feline Witness\The Feline Witness\bin\Debug\The Feline Witness.pdb
+C:\Users\USER\source\repos\The Feline Witness\The Feline Witness\obj\Debug\The Feline Witness.exe
+C:\Users\USER\source\repos\The Feline Witness\The Feline Witness\obj\Debug\The Feline Witness.pdb
